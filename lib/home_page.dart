@@ -130,8 +130,8 @@ class _HomePageState extends State<HomePage> {
               AppbarWidget(),
               SafeArea(
                 child: AnimatedPadding(
-                  curve: Curves.elasticOut,
-                  duration: animationDuration,
+                  curve: Curves.easeOut,
+                  duration: Duration(milliseconds: 400),
                   padding: collapsed
                       ? EdgeInsets.zero
                       : EdgeInsets.only(top: screenWidth * 0.25),
