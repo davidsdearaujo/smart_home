@@ -1,10 +1,14 @@
 # Smart Home
-
 Layout baseado no conceito de redesign do Mi Smart Home, que pode ser encontrado no [dribble](https://dribbble.com/shots/5137383--Mi-Smart-Home-Outside-view-1)
 
 ![desafio](https://user-images.githubusercontent.com/16373553/79682214-ced19100-81f6-11ea-82e5-22637113374b.gif)
 
-<div>Ícones feitos por <a href="https://github.com/MaxweelFreitas" title="Maxweel Freitas">Maxweel Freitas</a></div>
+Ícones feitos por [Maxweel Freitas](https://github.com/MaxweelFreitas)
+
+**Versão do Flutter utilizada:**
+```
+Flutter (Channel beta, v1.17.0, on Microsoft Windows [versÃ£o 10.0.18362.778], locale pt-BR)
+```
 
 ## Getting Started
 
