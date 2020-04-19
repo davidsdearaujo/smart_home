@@ -1,5 +1,6 @@
 # Smart Home
-Layout baseado no conceito de redesign do Mi Smart Home, que pode ser encontrado no [dribble](https://dribbble.com/shots/5137383--Mi-Smart-Home-Outside-view-1)
+Layout baseado no conceito de redesign do Mi Smart Home, que pode ser encontrado no dribble:
+https://dribbble.com/shots/5137383--Mi-Smart-Home-Outside-view-1
 
 ![desafio](https://user-images.githubusercontent.com/16373553/79682214-ced19100-81f6-11ea-82e5-22637113374b.gif)
 
