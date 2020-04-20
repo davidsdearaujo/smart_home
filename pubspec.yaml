@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  animation_helpers: ^1.0.0
   smooth_page_indicator: ^0.1.5
   no_scroll_glow: ^0.1.0
   flutter:
